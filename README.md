@@ -1,6 +1,6 @@
 # React Snowpack - Entry Level
 
-Live Code: https://react-fh6h8x.stackblitz.io
+Live Code: https://react-snowpack.stackblitz.io
 
 *For an advanced version with React Router, click here (coming soon)*
 
