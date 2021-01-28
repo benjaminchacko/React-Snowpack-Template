@@ -14,7 +14,6 @@ This repository was created with the Getting Started with React Tutorial from Sn
 * [snowpack.config.js](https://www.snowpack.dev/reference/configuration)
 * .jsx file extensions
 * [React Hooks](https://reactjs.org/docs/hooks-intro.html) - useState & useEffect
-* Custom Reack Hook to save state in Local Storage - useLocalStorage 
 
 
 ## How to Use
