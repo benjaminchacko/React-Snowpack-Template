@@ -2,8 +2,6 @@
 
 Live Code: https://react-snowpack.stackblitz.io
 
-*For an advanced version with React Router, click here (coming soon)*
-
 ### Language(s): React JS
 
 This repository was created with the Getting Started with React Tutorial from Snowpack found [here](https://www.snowpack.dev/tutorials/react) and is a starter template for building React JS apps using Snowpack.
